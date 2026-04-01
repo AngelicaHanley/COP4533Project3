@@ -19,6 +19,18 @@ def main():
         print(values)
         print(A)
         print(B)
+
+        #strings length, for dynamic programming table
+        n=len(A)
+        m=len(B)
+        #creating 2D dynamic prog array
+        dynamicProg=[]
+        for i in range(n+1):
+            row=[]
+            for j in range(m+1):
+                row.append(0)
+            dynamicProg.append(row)
+        print(dynamicProg)
     except FileNotFoundError:
         print("File opening error")
         return
