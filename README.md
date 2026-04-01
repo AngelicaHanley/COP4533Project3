@@ -26,8 +26,8 @@ Input
 - The last row is B, the second string
 
 Output
-- The first number in the output file is the maximum value found
-- The second row is the corresponding subsequence
+- The first number is the maximum value found
+- Next is the corresponding subsequence
 
 
 Question 1:
