@@ -34,7 +34,7 @@ Question 1:
 
 
 Question 2:
-![IMG_9912](https://github.com/user-attachments/assets/978dd878-decf-4fa7-8de9-c2790a5cbc69)
+![IMG_9913](https://github.com/user-attachments/assets/c146b83e-11c3-402f-b496-80e4f641f751)
 
 Question 3:
 
