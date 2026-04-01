@@ -14,6 +14,7 @@ Instructions to compile and run the code:
     - If your system uses "python3", run: python3 src/main.py
 
 Assumptions:
+
 Input
 - The first number in the input file is K, the number of characters in the alphabet
 - Rows afterward should follow this format:
@@ -33,7 +34,7 @@ Question 1:
 
 
 Question 2:
-
+![IMG_9913](https://github.com/user-attachments/assets/c146b83e-11c3-402f-b496-80e4f641f751)
 
 Question 3:
 
