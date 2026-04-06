@@ -37,4 +37,6 @@ Question 2:
 ![IMG_9913](https://github.com/user-attachments/assets/c146b83e-11c3-402f-b496-80e4f641f751)
 
 Question 3:
+<img width="663" height="587" alt="image" src="https://github.com/user-attachments/assets/8b3fdbbc-91ae-4ac4-9112-007e8a88c024" />
+
 
