@@ -40,7 +40,8 @@ Question 2:
 ![IMG_9913](https://github.com/user-attachments/assets/c146b83e-11c3-402f-b496-80e4f641f751)
 
 Question 3:
+<img width="822" height="713" alt="image" src="https://github.com/user-attachments/assets/8284cd55-c111-45d4-9544-227d3e55b3ee" />
 
-<img width="663" height="587" alt="image" src="https://github.com/user-attachments/assets/8b3fdbbc-91ae-4ac4-9112-007e8a88c024" />
+
 
 
